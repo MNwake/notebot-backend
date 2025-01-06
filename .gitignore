@@ -1,0 +1,23 @@
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Python compiled files
+__pycache__/
+*.py[cod]
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# IDE and editor settings
+.idea/
+.vscode/
+*.swp
+
+# Other system files
+*.sqlite3
+git add .gitignore
